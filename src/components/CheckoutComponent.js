@@ -31,7 +31,7 @@ class Checkout extends Component {
         else {
             return (
                 <div>
-                    shit nothing worked
+                    
                 </div>
             )
         }
